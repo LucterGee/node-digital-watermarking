@@ -25,6 +25,6 @@
   "homepage": "https://github.com/zy445566/node-digital-watermarking#readme",
   "dependencies": {
     "@types/node": "^20.19.43",
-    "jimp": "^0.12.1"
+    "jimp": "^1.6.1"
   }
 }
